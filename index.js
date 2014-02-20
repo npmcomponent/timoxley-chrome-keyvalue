@@ -2,7 +2,7 @@
  * Module dependencies
  */
 
-var throttle = require('throttle')
+var throttle = require('matthewmueller-throttle')
 var PREFIX = 'KeyValue'
 
 module.exports = KeyValue

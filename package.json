@@ -1,0 +1,13 @@
+{
+  "name": "timoxley-chrome-keyvalue",
+  "description": "Simple Key/Value storage atop chrome.storage. For Chrome extensions.",
+  "version": "0.0.3",
+  "keywords": [],
+  "dependencies": {
+    "timoxley-assert": "git://github.com/npmcomponent/timoxley-assert.git",
+    "component-batch": "git://github.com/npmcomponent/component-batch.git",
+    "visionmedia-debug": "git://github.com/npmcomponent/visionmedia-debug.git",
+    "matthewmueller-throttle": "git://github.com/npmcomponent/matthewmueller-throttle.git"
+  },
+  "license": "MIT"
+}
